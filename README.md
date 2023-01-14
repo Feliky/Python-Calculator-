@@ -1,2 +1,3 @@
 # Python-Calculator-
-# Added a simple calculator using Python 
+
+* Added a simple calculator using Python 
